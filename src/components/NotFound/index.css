@@ -1,0 +1,19 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found {
+  width: 50px;
+}
+.light {
+  color: black;
+  font-weight: 600;
+}
+.dark-bg {
+  background-color: black;
+}
+.light-bg {
+  background-color: white;
+}

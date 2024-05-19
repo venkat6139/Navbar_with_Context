@@ -1,0 +1,24 @@
+.home-img {
+  width: 50px;
+}
+.light {
+  color: black;
+  font-size: 700;
+}
+
+.dark {
+  color: white;
+  font-weight: 700;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-bg {
+  background-color: black;
+}
+.light-bg {
+  background-color: white;
+}

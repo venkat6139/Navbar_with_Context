@@ -1,0 +1,21 @@
+.about-img {
+  width: 50px;
+}
+.light {
+  color: black;
+}
+.dark {
+  color: white;
+}
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-bg {
+  background-color: black;
+}
+.light-bg {
+  background-color: white;
+}

@@ -1,0 +1,42 @@
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.website-logo {
+  width: 40px;
+}
+.nav-list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.light {
+  color: black;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.button {
+  border: 0px solid;
+  background-color: transparent;
+}
+.toggle-img {
+  width: 40px;
+}
+.dark {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+.nav-dark-bg {
+  background-color: #333333;
+}
+.nav-light-bg {
+  background-color: #dcdcdc;
+}
